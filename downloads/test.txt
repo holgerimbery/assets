@@ -1,0 +1,7 @@
+What is the v4 SDK?
+
+Bot Builder v4 SDK builds on the feedback and learnings from the prior Bot Builder SDKs. It introduces the right levels of abstraction while enabling rich componentization of the bot building blocks. You can start with a simple bot and grow your bot in sophistication using a modular and extensible framework. You can find FAQ for the SDK on GitHub.
+
+When will you add more conversation experiences to the Bot Framework?
+
+We plan on making continuous improvements to the Bot Framework, including additional channels, but cannot provide a schedule at this time.
